@@ -52,8 +52,6 @@ Advanced Modeling: XGBoost (Planned Next Step)
 
 ## 🖼️ Final Dashboard Snapshot
 
-(https://github.com/angel1234-ship-it/Proactive-Delinquency-Strategy/blob/main/Riskanalysis.pdf)
-
-![Proactive Delinquency Strategy Dashboard](https://github.com/angel1234-ship-it/Proactive-Delinquency-Strategy/blob/main/Riskanalysis.pdf)
+![Proactive Delinquency Strategy Dashboard](https://github.com/angel1234-ship-it/Proactive-Delinquency-Strategy/blob/main/Dashboard.png)
 
 The analysis is summarized in a single-page Power BI dashboard designed to guide intervention strategies.
