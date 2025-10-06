@@ -51,4 +51,6 @@ Visualization: Power BI
 Advanced Modeling: XGBoost (Planned Next Step)
 
 ## 🖼️ Final Dashboard Snapshot
+![Proactive Delinquency Strategy Dashboard]()
+
 The analysis is summarized in a single-page Power BI dashboard designed to guide intervention strategies.
